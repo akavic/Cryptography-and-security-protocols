@@ -1,14 +1,12 @@
 # Cryptography-and-security-protocols
-Assignment one
 
-**Symmetric Encryption Using Diffie-Hellman Key Agreement**
-
-
+**Assignment one**
+Symmetric Encryption Using Diffie-Hellman Key Agreement
 
 
 
 **Assignemnt two**
 
-**Digital Signature Using RSA**
+Digital Signature Using RSA
 
 
